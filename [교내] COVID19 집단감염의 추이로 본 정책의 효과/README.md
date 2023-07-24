@@ -1,4 +1,4 @@
-<img width="1608" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/2a13c06a-2c73-4861-a9aa-89193cbc0383"># [D&A Basic Session] 'COVID19 집단감염의 추이로 본 정책의 효과' 데이터분석 프로젝트
+# [D&A Basic Session] 'COVID19 집단감염의 추이로 본 정책의 효과' 데이터분석 프로젝트
 
 <br>
 
