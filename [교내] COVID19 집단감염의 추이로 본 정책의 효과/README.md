@@ -1,4 +1,4 @@
-# [D&A Basic Session] 'COVID19 집단감염의 추이로 본 정책의 효과' 데이터분석 프로젝트
+<img width="1608" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/2a13c06a-2c73-4861-a9aa-89193cbc0383"># [D&A Basic Session] 'COVID19 집단감염의 추이로 본 정책의 효과' 데이터분석 프로젝트
 
 <br>
 
@@ -41,6 +41,12 @@
 * 정책 시행 전후 연령대별 확진자 비교
 * 쿠팡 물류센터 집단감염 추세 시각화
 * 6/12 전후 서울, 인천, 경기 확진자 비교
+
+<img width="1608" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/e6e2e76e-f2bd-4fc5-a881-40db5b5b911a">
+
+<img width="1599" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/e170f0a6-afd4-4384-b471-38e1dffca9cc">
+
+
 
 <br>
 
