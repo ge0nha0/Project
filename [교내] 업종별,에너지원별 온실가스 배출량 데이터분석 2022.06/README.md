@@ -31,6 +31,11 @@
 * 업종 전체 배출량, 회사당 배출량 시각화
 * 에너지원별 백분율로 전처리 후 시각화
 
+<img width="1481" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/692733a2-2521-4676-beab-4e3b8b2644cb">
+
+<img width="1469" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/2055d5d2-0a05-4486-9b88-a2b3d426aade">
+
+
 ### 3. Streamlit
 * Streamlit 패키지를 활용하여 연도별 온실가스 현황에 대한 대시보드 제작
 * 연간 CO2 배출량, 2016-2019년 온실가스 정보에 대한 대시보드 제작
