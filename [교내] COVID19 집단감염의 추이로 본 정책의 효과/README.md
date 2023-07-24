@@ -25,6 +25,7 @@
 ### 0. 문제 정의
 * 행정학에서 배운 재난관리 Process로 시작 (행정학 Domain 활용)
 <img width="676" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/f398b90f-c530-4f5b-92c0-df38bfd6d46b">
+
 * 신종 인플루엔자, 메르스 등 이전 감염병 사례가 있었음에도 코로나 대응 정책이 미흡하였음 
 
 ### 1. 데이터 전처리
