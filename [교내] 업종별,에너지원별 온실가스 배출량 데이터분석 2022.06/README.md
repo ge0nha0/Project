@@ -15,7 +15,8 @@
 * (3) 업종별 온실가스 배출량 비율 (2016년-2019년)
 * (4) 에너지원별 (백분율) 비율 (2016년-2019년)
 
-![Uploading image.png…]()
+<img width="1510" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/4a2c2634-08aa-47a1-9f5e-78be67238791">
+
 
 
 <br>
