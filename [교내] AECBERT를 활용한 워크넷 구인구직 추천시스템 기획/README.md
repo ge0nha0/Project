@@ -19,6 +19,13 @@
 
 ## 프로젝트 과정
 
+### 0. 선행연구조사
+
+* AutoEncoders
+* DeepFM
+* BERT (Embedding)
+* HyBrid Recommender Systems
+
 ### 1.  워크넷 특징 및 문제 정의
 
 <img width="708" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/30edcd8f-f82e-4c4d-9ee5-7ba6c3a28c08">
