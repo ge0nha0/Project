@@ -26,7 +26,8 @@
 * BERT (Embedding)
 * HyBrid Recommender Systems
 
-<img width="696" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/9b854ed3-63db-4290-a775-5c0062020f9f"> <img width="705" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/18b044b1-1a6d-4266-854c-f690bb4d82f6"> 
+<img width="696" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/9b854ed3-63db-4290-a775-5c0062020f9f"> <img width="672" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/09b0ced1-1e9c-4f12-950f-57f2dd0e2ea8">
+
 
 <img width="320" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/48268fee-87e4-43fb-91ea-e5105a1c3db4"> <img width="691" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/44cc9134-aee5-41ef-9377-00ead0c6273c">
 
