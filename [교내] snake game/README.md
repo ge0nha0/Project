@@ -9,7 +9,7 @@
 
 ## 프로젝트 소개 
 
-* python을 활용하여 snake game 만들기
+* pygame 모듈을 활용한 snake game 만들기
 <img width="307" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/282015f9-2f6f-460f-9c1b-7b7e05bef89d">
 
 * Stack과 Queue를 활용하여 game 만들기
