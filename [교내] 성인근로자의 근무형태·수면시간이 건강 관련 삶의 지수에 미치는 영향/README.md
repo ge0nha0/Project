@@ -1,4 +1,4 @@
-<img width="586" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/36cc3911-5cdd-4c9e-96e0-56c4354c1b6f"># [회귀분석]'성인근로자의 근무형태·수면시간이 건강 관련 삶의 지수에 미치는 영향' 프로젝트
+# [회귀분석]'성인근로자의 근무형태·수면시간이 건강 관련 삶의 지수에 미치는 영향' 프로젝트
 
 <br>
 
@@ -84,8 +84,7 @@
 
 * 근무형태에 따른 평균 HINT_8지수가 효과가 있음.
 
-<img width="586" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/f95c0e22-69f4-436d-9501-82516c134073">
-
+<img width="586" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/36cc3911-5cdd-4c9e-96e0-56c4354c1b6f">
 
 <br>
 
