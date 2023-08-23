@@ -11,9 +11,10 @@
 
 <img width="704" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/4ac93562-c518-4a69-8ffb-e7c98749cbc1">
 
-- 논문 스터디에서 Resnet50과 EfficientNet 모델을 공부하며 관심 있는 패션 분야에 직접 적용해보기 위해서 Toy Project를 진행함.
-
 <img width="895" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/72b07d0a-bcae-4a53-96d0-2f5ee627ca60">
+
+
+- 논문 스터디에서 Resnet50과 EfficientNet 모델을 공부하며 관심 있는 패션 분야에 직접 적용해보기 위해서 Toy Project를 진행함.
 
 
 <br>
@@ -21,18 +22,23 @@
 ## 프로젝트 과정
 
 1. 데이터 수집
-<img width="895" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/90ffcaee-c7b8-47b4-8815-7aef8ce1a5a7">
+<img width="1455" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/4b9cbd4d-1c39-44e8-86d6-bee8f66e1d98">
 
 - 카테고리 별로 이미지 크롤링 진행
 - 옷 이미지 url, 이미지 저장되는 이름, 옷 카테고리, 카테고리 사이즈, 개별 옷 url, 그 옷의 소재, 제조자(수입자)를 딕셔너리로 저장
 - 크롤링 이후 csv 생성
 
 2. 이미지 데이터 정제
+<img width="1382" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/d97ac50a-db97-4122-b2e4-a883d751dc42">
+
 - 데이터 프레임의 image url 컬럼을 사용하여 이미지 다운로드
 - 다운 받은 이미지 데이터 수동 전처리
 - train/test 폴더 안에 카테고리 하위 폴더 생성 후, 이미지 업로드
 
 3. 데이터 분류
+<img width="1402" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/4d5c9145-862c-4db0-910a-9922cfe8bd6e">
+
+
 - 이미지 파일 이름 넘버링
 - 이미지 랜덤 추출하여 train / test split
 - train / test의 이미지들을 다시 넘버링 진행
