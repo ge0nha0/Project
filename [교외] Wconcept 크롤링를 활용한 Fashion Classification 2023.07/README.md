@@ -11,9 +11,6 @@
 
 <img width="704" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/4ac93562-c518-4a69-8ffb-e7c98749cbc1">
 
-<img width="895" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/72b07d0a-bcae-4a53-96d0-2f5ee627ca60">
-
-
 - 논문 스터디에서 Resnet50과 EfficientNet 모델을 공부하며 관심 있는 패션 분야에 직접 적용해보기 위해서 Toy Project를 진행함.
 
 
