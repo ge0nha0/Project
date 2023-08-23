@@ -13,6 +13,7 @@
 
 - 논문 스터디에서 Resnet50과 EfficientNet 모델을 공부하며 관심 있는 패션 분야에 직접 적용해보기 위해서 Toy Project를 진행함.
 
+### original / train / test 폴더는 용량이 너무 커서 못 올립니다.
 
 <br>
 
