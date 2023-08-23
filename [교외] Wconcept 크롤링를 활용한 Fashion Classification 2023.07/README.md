@@ -63,7 +63,7 @@
 <img width="703" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/137284b4-b817-47cc-a6bf-b07b8cf745df">
 
 ### 9. EfficientNet Modeling
-<img width="297" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/7eb89049-7b5d-406a-9d0d-ee29e46c9548">
+<img width="586" alt="image" src="https://github.com/ge0nha0/Projects/assets/100743813/b63e3bdf-a44a-4b03-8b38-a30c1ccbe0a2">
 
 
 <br>
